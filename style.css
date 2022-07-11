@@ -52,7 +52,7 @@ footer p:first-of-type{
     margin-left: 150px;
     margin-right: 1050px;
 }
-footer p:nth-child(){
+footer p:nth-child(2){
     margin-left: 600px;
     margin-right: 600px;
 }
@@ -78,5 +78,6 @@ footer p:first-child{
     background-color: rgb(27, 26, 26);
 }
 a:hover{
-
+    color: black;
+    background-color: white;
 }
