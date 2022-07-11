@@ -98,8 +98,8 @@ footer a:first-of-type{
 
 }
 footer a:nth-child(2n){
-    margin-left: 300px;
-    margin-right: 300px;
+    margin-left: 350px;
+    margin-right: 350px;
 }
 footer a:last-of-type{
     margin-right: 190px;
