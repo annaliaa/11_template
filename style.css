@@ -52,7 +52,7 @@ footer p:first-of-type{
     margin-left: 150px;
     margin-right: 1050px;
 }
-footer p:nth-child(3n){
+footer p:nth-child(2n){
     margin-left: 600px;
     margin-right: 600px;
 }
@@ -96,7 +96,7 @@ footer a:first-of-type{
     margin-left: 200px;
 
 }
-footer a:nth-child(3n){
+footer a:nth-child(2n){
     margin-left: 300px;
     margin-right: 300px;
 }
