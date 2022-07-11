@@ -49,14 +49,17 @@ footer p{
     background-color: rgb(27, 26, 26);
 }
 footer p:first-of-type{
+    margin-bottom: 0;
     margin-left: 150px;
     margin-right: 1060px;
 }
 footer p:nth-child(2n){
+    margin-bottom: 0;
     margin-left: 600px;
     margin-right: 600px;
 }
 footer p:last-of-type{
+    margin-top: 0%;
     margin-right: 150px;
     margin-left: 1060px;
 }
