@@ -69,10 +69,13 @@ footer h3:first-of-type{
 }
 footer h3:nth-child(2n){
     margin-top: 40px;
+    margin-left: 600px;
+    margin-right: 600px;
     
 }
 footer h3:last-of-type{
    margin-top: 40px;
+   
 }
 footer h3{
     background-color: rgb(27, 26, 26);
