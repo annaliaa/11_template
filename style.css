@@ -54,7 +54,7 @@ footer p:first-of-type{
     margin-left: 150px;
     margin-right: 1050px;
 }
-footer p:nth-child(2){
+footer p:nth-child(2n){
     margin-left: 600px;
     margin-right: 600px;
 }
