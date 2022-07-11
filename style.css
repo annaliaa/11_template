@@ -86,4 +86,5 @@ a:hover{
     margin-bottom: 50px;
     color: black;
     background-color: white;
+    display: block;
 }
