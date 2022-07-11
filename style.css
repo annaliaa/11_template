@@ -100,15 +100,6 @@ footer a:first-of-type{
     margin-right: 1200px;
     background-color: yellowgreen;
 }
-footer a:nth-child(0):hover{
-    margin-bottom: 50px;
-    background-color: rgb(16, 76, 31);
-}
-footer a:nth-child(0){
-    margin-left: 670px;
-    margin-right: 260px;
-    background-color: rgb(11, 11, 62);
-}
 footer a:last-of-type:hover{
     margin-bottom: 50px;
     background-color: rgb(64, 64, 11);
@@ -117,4 +108,13 @@ footer a:last-of-type{
     margin-right: 150px;
     margin-left: 1150px;
     background-color: rgb(115, 47, 70);
+}
+footer a:nth-child(2):hover{
+    margin-bottom: 50px;
+    background-color: darkslategrey;
+}
+footer a:nth-child(2){
+    margin-left: 660px;
+    margin-right: 260px;
+    background-color: mediumseagreen;
 }
