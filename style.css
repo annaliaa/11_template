@@ -106,7 +106,7 @@ footer a:nth-child(2n):hover{
     color: white;
     background-color: rgb(16, 76, 31);
 }
-footer a:nth-last-child(2n){
+footer a:nth-child(2n){
     margin-left: 670px;
     margin-right: 260px;
     color: white;
