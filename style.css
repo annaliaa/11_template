@@ -100,7 +100,7 @@ footer a:first-of-type{
     margin-right: 1200px;
     background-color: yellowgreen;
 }
-footer a:nth-child():hover{
+footer a:nth-child(n1):hover{
     margin-bottom: 50px;
     background-color: rgb(16, 76, 31);
 }
