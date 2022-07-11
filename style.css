@@ -35,7 +35,6 @@ main h1{
 main img{
     margin-left: 50px;
 }
-footer h3, p{
-    color: black;
-    background-color: white;
+footer{
+    background-color: gray;
 }
