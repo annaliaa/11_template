@@ -36,7 +36,7 @@ main h1,h3,h4, p{
     margin-top: 25px;
 }
 p{
-    margin-right: 50px;
+    margin-right: 60px;
 }
 main h4, p{
     margin-bottom: 30px;
@@ -98,10 +98,8 @@ footer a:first-of-type{
 
 }
 footer a:nth-child(2n){
-    margin-left: 350px;
-    margin-right: 350px;
+    
 }
 footer a:last-of-type{
-    margin-right: 190px;
-    margin-left: 300px;
+   
 }
