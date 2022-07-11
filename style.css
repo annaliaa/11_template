@@ -42,11 +42,14 @@ footer{
 }
 footer h3 :first-child{
     margin-left: 40px;
+    margin-right: 1300px;
 }
 footer h3{
     margin-top: 30px;
 }
-
+footer p:first-child{
+    margin-left: 40px;
+}
 hr{
     color: black;
 }  
