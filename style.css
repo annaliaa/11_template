@@ -52,16 +52,19 @@ footer p:first-of-type{
     margin-bottom: 0;
     margin-left: 150px;
     margin-right: 1060px;
+    color: crimson;
 }
 footer p:nth-child(2n){
     margin-bottom: 0;
     margin-left: 600px;
     margin-right: 600px;
+    color: darkorange;
 }
 footer p:last-of-type{
     margin-top: 0%;
     margin-right: 150px;
     margin-left: 1060px;
+    color: deepskyblue;
 }
 footer img{
     margin-left: 150px;
