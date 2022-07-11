@@ -88,11 +88,6 @@ footer h3{
     margin-top: 30px;
     background-color: rgb(27, 26, 26);
 }
-footer p:first-child{
-    margin-left: 40px;
-    color: olive;
-    background-color: rgb(27, 26, 26);
-}
 a{
     color: white;
     padding: 10px 20px;
@@ -102,4 +97,14 @@ a:hover{
     margin-bottom: 50px;
     color: black;
     background-color: white;
+}
+footer a:first-child{
+    margin-left: 200px;
+
+}
+footer a:nth-child(3n){
+    margin-left: 550px;
+}
+footer a:last-of-type{
+    margin-right: 200px;
 }
