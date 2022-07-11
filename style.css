@@ -44,7 +44,18 @@ footer{
     background-color: rgb(27, 26, 26);
 }
 footer p{
-    font-size: 5px;
+    font-size: 15px;
+}
+footer p:first-child{
+    margin-left: 150px;
+}
+footer p:nth-child(n){
+    margin-left: 600px;
+    margin-right: 600px;
+}
+footer p:last-child{
+    margin-right: 150px;
+    
 }
 footer img{
     margin-left: 150px;
@@ -62,3 +73,6 @@ footer p:first-child{
 hr{
     color: black;
 }  
+a:hover{
+
+}
