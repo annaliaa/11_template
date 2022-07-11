@@ -91,6 +91,7 @@ footer a{
     padding: 10px 20px;
     margin-top: 40px;
     color: white;
+    border-radius: 25px;
 }
 footer a:first-of-type:hover{
     margin-bottom: 50px;
