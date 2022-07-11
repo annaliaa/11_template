@@ -94,7 +94,7 @@ footer h3{
 footer a{
     padding: 10px 20px;
     margin-top: 40px;
-    color: antiquewhite
+    color: antiquewhite;
     border-radius: 25px;
 }
 footer a:first-of-type:hover{
