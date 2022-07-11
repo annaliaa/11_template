@@ -10,14 +10,14 @@ header{
 header h1{
     text-align: center;
     position: relative;
-    font-size: 150px;
+    font-size: 135px;
     margin-bottom: 125px;
     margin-top: 300px;
     top: 60%;
-    color: white;
+    color: antiquewhite;
     background-image: url(FotoGugaMarques_06062018-14.jpg);
     width: 1505px;
-    height: 380px;
+    height: 400px;
     margin: 0;
     border: 0;
 }
@@ -31,9 +31,12 @@ main img{
     margin-left: 50px;
 }
 main h1,h3,h4, p{
-    color: white;
+    color: antiquewhite;
     margin-left: 50px;
     margin-top: 25px;
+}
+main p{
+    text-indent: 2px;
 }
 p{
     margin-right: 60px;
@@ -90,7 +93,7 @@ footer h3{
 footer a{
     padding: 10px 20px;
     margin-top: 40px;
-    color: white;
+    color: antiquewhite
     border-radius: 25px;
 }
 footer a:first-of-type:hover{
