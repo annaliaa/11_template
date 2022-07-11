@@ -46,16 +46,16 @@ footer{
 footer p{
     font-size: 15px;
 }
-footer p:first-child{
+footer p:first-of-type{
     margin-left: 150px;
 }
-footer p:nth-child(n){
+footer p:nth-last-child(2){
     margin-left: 600px;
     margin-right: 600px;
 }
-footer p:last-child{
+footer p:last-of-type{
     margin-right: 150px;
-    
+
 }
 footer img{
     margin-left: 150px;
