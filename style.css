@@ -50,7 +50,7 @@ footer p{
 }
 footer p:first-of-type{
     margin-left: 150px;
-    margin-right: 1050px;
+    margin-right: 1060px;
 }
 footer p:nth-child(2n){
     margin-left: 600px;
@@ -58,7 +58,7 @@ footer p:nth-child(2n){
 }
 footer p:last-of-type{
     margin-right: 150px;
-    margin-left: 1055px;
+    margin-left: 1060px;
 }
 footer img{
     margin-left: 150px;
