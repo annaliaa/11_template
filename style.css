@@ -48,6 +48,7 @@ footer p{
 }
 footer p:first-of-type{
     margin-left: 150px;
+    margin-right: 1050px;
 }
 footer p:nth-last-child(2){
     margin-left: 600px;
@@ -55,6 +56,7 @@ footer p:nth-last-child(2){
 }
 footer p:last-of-type{
     margin-right: 150px;
+    margin-left: 1050px;
 
 }
 footer img{
