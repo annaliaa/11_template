@@ -94,7 +94,7 @@ footer a:hover{
 }
 footer a:first-of-type{
     margin-top: 40px;
-    margin-left: 150px;
+    margin-left: 190px;
 
 }
 footer a:nth-child(2n){
@@ -102,6 +102,6 @@ footer a:nth-child(2n){
     margin-right: 300px;
 }
 footer a:last-of-type{
-    margin-right: 150px;
+    margin-right: 190px;
     margin-left: 300px;
 }
