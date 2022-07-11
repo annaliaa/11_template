@@ -68,7 +68,7 @@ footer p:last-of-type{
 footer img{
     margin-left: 150px;
 }
-footer h3:first-child{
+footer h3:first-of-type{
     margin-left: 150px;
     margin-right: 1300px;
     color: brown;
