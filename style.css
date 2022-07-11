@@ -68,14 +68,17 @@ footer img{
 footer h3 :first-child{
     margin-left: 40px;
     margin-right: 1300px;
+    color: brown;
     background-color: rgb(27, 26, 26);
 }
 footer h3{
     margin-top: 30px;
+    color: peru;
     background-color: rgb(27, 26, 26);
 }
 footer p:first-child{
     margin-left: 40px;
+    color: olive;
     background-color: rgb(27, 26, 26);
 }
 a{
