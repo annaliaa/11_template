@@ -76,6 +76,7 @@ footer h3:nth-child(2n){
 }
 footer h3:last-of-type{
     margin-right: 150px;
+    margin-left: 1300px;
     color: darkolivegreen;
 }
 footer h3{
