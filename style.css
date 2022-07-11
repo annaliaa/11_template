@@ -109,11 +109,11 @@ footer a:last-of-type{
     margin-left: 1150px;
     background-color: rgb(115, 47, 70);
 }
-footer a:nth-child(2):hover{
+footer a:nth-last-child(2):hover{
     margin-bottom: 50px;
     background-color: darkslategrey;
 }
-footer a:nth-child(2){
+footer a:nth-last-child(2){
     margin-left: 660px;
     margin-right: 260px;
     background-color: mediumseagreen;
