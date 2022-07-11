@@ -101,12 +101,12 @@ footer a:first-of-type{
     color: white;
     background-color: yellowgreen;
 }
-footer a:nth-child(3n):hover{
+footer a:nth-child(n):hover{
     margin-bottom: 50px;
     color: white;
     background-color: rgb(16, 76, 31);
 }
-footer a:nth-child(3n){
+footer a:nth-child(n){
     margin-left: 670px;
     margin-right: 260px;
     color: white;
