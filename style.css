@@ -42,8 +42,5 @@ footer h3 :first-child{
     margin-left: 40px;
 }
 footer h3{
-    margin-left: 650px;
-}
-footer h3 :first-child{
-    margin-left: 40px;
-}
+    margin-top: 30px;
+}    
