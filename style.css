@@ -91,7 +91,6 @@ footer a:hover{
     background-color: white;
 }
 footer a:first-of-type{
-    margin-top: 40px;
     margin-left: 150px;
 
 }
@@ -99,5 +98,5 @@ footer a:nth-child(2n){
     margin-left: 650px;
 }
 footer a:last-of-type{
-   
+   margin-right: 250px;
 }
