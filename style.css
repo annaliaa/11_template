@@ -68,36 +68,41 @@ footer img{
 }
 footer h3:first-of-type{
     margin-left: 150px;
+    color: rgb(96, 48, 48);
 }
 footer h3:nth-child(2n){
     margin-left: 610px;
-    margin-right: 590px;  
+    margin-right: 590px; 
+    color: rgb(54, 54, 182); 
 }
 footer h3:last-of-type{
    margin-right: 250px;
    margin-left: 1060px;
+   color: rgb(119, 92, 24);
 }
 footer h3{
     background-color: rgb(27, 26, 26);
 }
 footer a{
-    color: white;
     padding: 10px 20px;
     margin-top: 40px;
 }
-footer a:hover{
+footer a:first-of-type:hover{
     margin-bottom: 50px;
     color: black;
     background-color: white;
-}
-footer a:first-of-type{
     margin-left: 150px;
     margin-right: 1200px;
-
 }
-footer a:nth-child(2n){
+footer a:nth-child(2n):hover{
+    margin-bottom: 50px;
+    color: ;
+    background-color: ;
     margin-left: 650px;
 }
 footer a:last-of-type{
-   margin-right: 250px;
+    margin-bottom: ;
+    color: ;
+    margin-right: 250px;
+    background-color: ;
 }
