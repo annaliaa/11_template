@@ -98,12 +98,12 @@ a:hover{
     color: black;
     background-color: white;
 }
-footer a:first-child{
+footer a:first-of-type{
     margin-left: 200px;
 
 }
 footer a:nth-child(3n){
-    margin-left: 550px;
+    margin-left: 500px;
 }
 footer a:last-of-type{
     margin-right: 200px;
