@@ -70,13 +70,11 @@ footer h3:first-of-type{
     color: brown;
 }
 footer h3:nth-child(3n){
-    margin-top: 40px;
     margin-left: 600px;
     margin-right: 600px;
     color: darkgoldenrod;
 }
 footer h3:last-of-type{
-    margin-top: 40px;
     margin-left: 1050px;
     margin-right: 150px;
     color: darkolivegreen;
