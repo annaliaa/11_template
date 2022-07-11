@@ -46,7 +46,6 @@ footer{
 }
 footer p{
     font-size: 15px;
-    background-color: rgb(27, 26, 26);
 }
 footer p:first-of-type{
     margin-bottom: 0;
