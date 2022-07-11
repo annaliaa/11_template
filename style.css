@@ -86,6 +86,7 @@ footer h3:last-of-type{
 footer h3{
     background-color: rgb(27, 26, 26);
 }
+/*Tive dificuldade em alinhar os elementos a partir aqui, mas aprendi muita coisa. Também não entendi se era para todos os títulos, paragrafos e botoes serem de cores diferentes uma das outras, então ficou parecendo uma festa junina*/
 footer a{
     padding: 10px 20px;
     margin-top: 40px;
