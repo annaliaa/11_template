@@ -91,11 +91,11 @@ footer a{
     margin-top: 40px;
     color: white;
 }
-footer a:first-of-type:hover{
+footer a:first-child:hover{
     margin-bottom: 50px;
     background-color: rgb(233, 55, 55);
 }
-footer a:first-of-type{
+footer a:first-child{
     margin-left: 210px;
     margin-right: 1200px;
     background-color: yellowgreen;
