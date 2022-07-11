@@ -26,6 +26,9 @@ header h1{
     margin: 0;
     border: 0;
 }
+h4{
+    margin-bottom: 75px;
+}
 main h1{
     font-size: 45px;
 }
@@ -33,4 +36,5 @@ main img{
     margin-left: 50px;
 }
 footer{
-
+    background-color: white;
+}
