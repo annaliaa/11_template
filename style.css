@@ -99,11 +99,12 @@ a:hover{
     background-color: white;
 }
 footer a:first-of-type{
+    margin-top: 40px;
     margin-left: 200px;
 
 }
 footer a:nth-child(3n){
-    margin-left: 500px;
+    margin-left: 300px;
 }
 footer a:last-of-type{
     margin-right: 200px;
