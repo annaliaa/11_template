@@ -103,4 +103,5 @@ footer a:nth-child(2n){
 }
 footer a:last-of-type{
     margin-right: 200px;
+    margin-left: 300px;
 }
