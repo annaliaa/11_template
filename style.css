@@ -92,7 +92,7 @@ footer a{
 }
 footer a:first-of-type:hover{
     margin-bottom: 50px;
-    color: black;
+    color: white;
     background-color: rgb(233, 55, 55);
 }
 footer a:first-of-type{
