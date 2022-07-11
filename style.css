@@ -4,13 +4,14 @@
     margin: 0%;
     padding: 0%;
 }
-
 h1,h3,h4, p{
     color: white;
     margin-left: 50px;
     margin-top: 25px;
 }
-
+main h1{
+    font-size: 75px;
+}
 header h1{
     text-align: center;
     position: relative;
