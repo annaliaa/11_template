@@ -38,6 +38,9 @@ main img{
 footer{
     background-color: rgb(27, 26, 26);
 }
-footer img :last-child{
-    margin-right: 40px;
+footer h3 :first-child{
+    margin-left: 40px;
+}
+footer h3{
+    margin-left: 650px;
 }
