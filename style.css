@@ -7,17 +7,6 @@
 header{
     background-color: black;
 }
-main{
-    background-color: black;
-}
-main h1,h3,h4, p{
-    color: white;
-    margin-left: 50px;
-    margin-top: 25px;
-}
-p{
-    margin-right: 50px;
-}
 header h1{
     text-align: center;
     position: relative;
@@ -32,14 +21,25 @@ header h1{
     margin: 0;
     border: 0;
 }
-h4, p{
-    margin-bottom: 30px;
+main{
+    background-color: black;
 }
 main h1{
     font-size: 45px;
 }
 main img{
     margin-left: 50px;
+}
+main h1,h3,h4, p{
+    color: white;
+    margin-left: 50px;
+    margin-top: 25px;
+}
+p{
+    margin-right: 50px;
+}
+main h4, p{
+    margin-bottom: 30px;
 }
 footer{
     background-color: rgb(27, 26, 26);
@@ -81,12 +81,12 @@ footer h3:last-of-type{
 footer h3{
     background-color: rgb(27, 26, 26);
 }
-a{
+footer a{
     color: white;
     padding: 10px 20px;
     margin-top: 40px;
 }
-a:hover{
+footer a:hover{
     margin-bottom: 50px;
     color: black;
     background-color: white;
