@@ -8,6 +8,7 @@
 h1,h3,h4, p{
     color: white;
     margin-left: 50px;
+    margin-top: 90px;
 }
 
 header h1{
@@ -24,3 +25,5 @@ header h1{
     margin: 0;
     border: 0;
 }
+
+
